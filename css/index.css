@@ -31,6 +31,7 @@ body{
 }
 
 h1, h2{  font-family: 'Cafe24Ssurround';}
+
 /* Header -------------------------->>>>> */
 header{
   background-color: #fff;
@@ -301,6 +302,7 @@ header{
 }
 
 .screen .div {
+  font-family: 'NanumSquareRound';
   top: 10px;
   font-weight: 600;
   font-size: 10px;
@@ -389,7 +391,6 @@ color: #fff;}
 
 /* section2 -------------------------->>>>> */
 #s2 {
-
   width: 100%;
   height: 100%;
   background-color: #FFA8A8;
@@ -410,6 +411,7 @@ color: #fff;}
 .crimson h3{
   font-size: 20px;
   color: #FF1321;
+  font-weight: bold;
 }
 
 #s2 img{
