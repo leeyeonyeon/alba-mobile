@@ -53,7 +53,7 @@ header{
 
 /* 모바일 메뉴 기본 숨김 */
 .mobile-menu {
-  /* display: none; */
+  display: none;
   position: fixed;
   top: 0;
   left: 50%;
